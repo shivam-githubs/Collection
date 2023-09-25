@@ -24,5 +24,4 @@ public class Non_Generics <t>{
 		System.out.println(generics.getA());
 		
 	}
-
 }
